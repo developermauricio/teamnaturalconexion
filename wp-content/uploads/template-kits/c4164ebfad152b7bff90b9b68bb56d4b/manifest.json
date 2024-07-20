@@ -1,0 +1,2263 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Merintis",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page 08 - FAQs",
+            "screenshot": "screenshots\/page-08-faqs.jpg",
+            "source": "templates\/page-08-faqs.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/template-kit\/page-08-faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page 07 - Contact",
+            "screenshot": "screenshots\/page-07-contact.jpg",
+            "source": "templates\/page-07-contact.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/template-kit\/page-07-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page 04 - Case Study Detail",
+            "screenshot": "screenshots\/page-04-case-study-detail.jpg",
+            "source": "templates\/page-04-case-study-detail.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/template-kit\/page-04-case-study-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page 03 - Case Studies",
+            "screenshot": "screenshots\/page-03-case-studies.jpg",
+            "source": "templates\/page-03-case-studies.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/template-kit\/page-03-case-studies\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page 05 - Pricing",
+            "screenshot": "screenshots\/page-05-pricing.jpg",
+            "source": "templates\/page-05-pricing.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/template-kit\/page-05-pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page 02 - Single Service",
+            "screenshot": "screenshots\/page-02-single-service.jpg",
+            "source": "templates\/page-02-single-service.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/template-kit\/page-02-single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page 01 - Our Service",
+            "screenshot": "screenshots\/page-01-our-service.jpg",
+            "source": "templates\/page-01-our-service.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/template-kit\/page-01-our-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page 09 - Team",
+            "screenshot": "screenshots\/page-09-team.jpg",
+            "source": "templates\/page-09-team.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/template-kit\/page-09-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page 06 - About",
+            "screenshot": "screenshots\/page-06-about.jpg",
+            "source": "templates\/page-06-about.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/template-kit\/page-06-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Footer (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-footer-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-footer-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/?elementor_library=theme-builder-footer-elementor-pro",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Theme Builder \u2013 Header (Elementor Pro)",
+            "screenshot": "screenshots\/theme-builder-header-elementor-pro-.jpg",
+            "source": "templates\/theme-builder-header-elementor-pro-.json",
+            "preview_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/?elementor_library=theme-builder-header-elementor-pro",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.1.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.5",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "img-faq.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-faq-600x217.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faqs.json",
+                    "name": "Page 08 - FAQs"
+                }
+            ],
+            "filesize": 91943,
+            "dimensions": [
+                1440,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-using-laptop-to-discuss-information-wi-TNJR4BN"
+        },
+        {
+            "filename": "aset02.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset02.png",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faqs.json",
+                    "name": "Page 08 - FAQs"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3929,
+            "dimensions": [
+                177,
+                283
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon01.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon01.png",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faqs.json",
+                    "name": "Page 08 - FAQs"
+                },
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 887,
+            "dimensions": [
+                74,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE\/preview\/4"
+        },
+        {
+            "filename": "icon02.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon02.png",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faqs.json",
+                    "name": "Page 08 - FAQs"
+                },
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1164,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE\/preview\/4"
+        },
+        {
+            "filename": "icon03.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon03.png",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faqs.json",
+                    "name": "Page 08 - FAQs"
+                },
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1923,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE\/preview\/4"
+        },
+        {
+            "filename": "aset05.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset05.png",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faqs.json",
+                    "name": "Page 08 - FAQs"
+                },
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4343,
+            "dimensions": [
+                423,
+                757
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "aset06.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset06.png",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faqs.json",
+                    "name": "Page 08 - FAQs"
+                },
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3880,
+            "dimensions": [
+                177,
+                283
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-person.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-person.png",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faqs.json",
+                    "name": "Page 08 - FAQs"
+                },
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 432386,
+            "dimensions": [
+                556,
+                797
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-handsome-businessman-in-restaurant-RZHFMVN"
+        },
+        {
+            "filename": "Semi-colon-icon.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/Semi-colon-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faqs.json",
+                    "name": "Page 08 - FAQs"
+                },
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1020,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-food.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-food-600x145.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-08-faqs.json",
+                    "name": "Page 08 - FAQs"
+                },
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                },
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                },
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                }
+            ],
+            "filesize": 80302,
+            "dimensions": [
+                1334,
+                322
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sharing-ideas-DFGR9KM"
+        },
+        {
+            "filename": "img-contact.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-contact-600x217.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-07-contact.json",
+                    "name": "Page 07 - Contact"
+                }
+            ],
+            "filesize": 97582,
+            "dimensions": [
+                1440,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/exchanging-contacts-info-C2MVXJ6"
+        },
+        {
+            "filename": "icon-contact01.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon-contact01.png",
+            "templates": [
+                {
+                    "source": "templates\/page-07-contact.json",
+                    "name": "Page 07 - Contact"
+                }
+            ],
+            "filesize": 1251,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contact-icons-M7M4DG"
+        },
+        {
+            "filename": "icon-contact02.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon-contact02.png",
+            "templates": [
+                {
+                    "source": "templates\/page-07-contact.json",
+                    "name": "Page 07 - Contact"
+                }
+            ],
+            "filesize": 1286,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contact-icons-M7M4DG"
+        },
+        {
+            "filename": "icon-contact03.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon-contact03.png",
+            "templates": [
+                {
+                    "source": "templates\/page-07-contact.json",
+                    "name": "Page 07 - Contact"
+                }
+            ],
+            "filesize": 1365,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contact-icons-M7M4DG"
+        },
+        {
+            "filename": "icon-contact04.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon-contact04.png",
+            "templates": [
+                {
+                    "source": "templates\/page-07-contact.json",
+                    "name": "Page 07 - Contact"
+                }
+            ],
+            "filesize": 1288,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contact-icons-M7M4DG"
+        },
+        {
+            "filename": "img-casestudies.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-casestudies-600x217.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 116664,
+            "dimensions": [
+                1440,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/programmer-outsource-developer-team-coding-technol-AU7NAZ6"
+        },
+        {
+            "filename": "play-icon.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/play-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 1532,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "up-icon.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/up-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 321,
+            "dimensions": [
+                24,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-service01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-service01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                },
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                },
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 42149,
+            "dimensions": [
+                425,
+                504
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-business-people-planning-startup-6RTDKE5"
+        },
+        {
+            "filename": "aset001.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset001.png",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 1083,
+            "dimensions": [
+                67,
+                92
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-001.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon-001.png",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 1065,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-002.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon-002.png",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 976,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 1398,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 1745,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-casedetail.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-casedetail.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 55138,
+            "dimensions": [
+                472,
+                560
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sending-money-online-N6ACGU4"
+        },
+        {
+            "filename": "aset07.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset07.png",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                },
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                },
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                },
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 1110,
+            "dimensions": [
+                67,
+                92
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-testimoni-bg.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-testimoni-bg-600x219.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 121775,
+            "dimensions": [
+                1334,
+                488
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/when-you-enjoy-your-job-DRUGZXH"
+        },
+        {
+            "filename": "img-testimoni.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-testimoni.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-04-case-study-detail.json",
+                    "name": "Page 04 - Case Study Detail"
+                }
+            ],
+            "filesize": 3854,
+            "dimensions": [
+                88,
+                88
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/when-you-enjoy-your-job-DRUGZXH"
+        },
+        {
+            "filename": "img-case.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-case-600x217.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                }
+            ],
+            "filesize": 118894,
+            "dimensions": [
+                1440,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/analyst-of-coding-26BV38G"
+        },
+        {
+            "filename": "img01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 37665,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sending-money-online-N6ACGU4"
+        },
+        {
+            "filename": "img02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 27179,
+            "dimensions": [
+                540,
+                398
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-training-with-running-app-ZUQQMHB"
+        },
+        {
+            "filename": "img03.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 30786,
+            "dimensions": [
+                540,
+                478
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/local-food-delivery-H8APXSM"
+        },
+        {
+            "filename": "img04.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 45380,
+            "dimensions": [
+                540,
+                620
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/shopping-via-mobile-app-2SNUJU6"
+        },
+        {
+            "filename": "img-case01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-case01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                }
+            ],
+            "filesize": 47829,
+            "dimensions": [
+                540,
+                620
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/controlling-smart-kitchen-appliance-with-mobile-ap-P58BFFL"
+        },
+        {
+            "filename": "img-case02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-case02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                }
+            ],
+            "filesize": 57189,
+            "dimensions": [
+                540,
+                478
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smartphone-application-L4H3QU8"
+        },
+        {
+            "filename": "img-case03.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-case03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                }
+            ],
+            "filesize": 36277,
+            "dimensions": [
+                540,
+                398
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/crop-doctor-and-patient-looking-application-on-sma-E7G6NFH"
+        },
+        {
+            "filename": "img-case04.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-case04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                }
+            ],
+            "filesize": 38393,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smartphone-music-application-concept-PRUUGZL"
+        },
+        {
+            "filename": "logo-ipsum01.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum01.png",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 1579,
+            "dimensions": [
+                236,
+                84
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-ipsum02.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum02.png",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 1066,
+            "dimensions": [
+                194,
+                84
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-ipsum03.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum03.png",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 1072,
+            "dimensions": [
+                234,
+                84
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-ipsum04.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum04.png",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 1318,
+            "dimensions": [
+                223,
+                84
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-ipsum05.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum05.png",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 2098,
+            "dimensions": [
+                213,
+                84
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimalist-logo-templates-WLPEMU"
+        },
+        {
+            "filename": "logo-ipsum06.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum06.png",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 2707,
+            "dimensions": [
+                183,
+                84
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimalist-logo-templates-WLPEMU"
+        },
+        {
+            "filename": "logo-ipsum07.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum07.png",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 2116,
+            "dimensions": [
+                167,
+                84
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimalist-logo-templates-WLPEMU"
+        },
+        {
+            "filename": "logo-ipsum08.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum08.png",
+            "templates": [
+                {
+                    "source": "templates\/page-03-case-studies.json",
+                    "name": "Page 03 - Case Studies"
+                },
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 2176,
+            "dimensions": [
+                167,
+                84
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/minimalist-logo-templates-WLPEMU"
+        },
+        {
+            "filename": "img-pricing.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-pricing-600x217.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 106232,
+            "dimensions": [
+                1440,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/consulting-customer-on-price-issue-F99ZKHZ"
+        },
+        {
+            "filename": "check-icon.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/check-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 351,
+            "dimensions": [
+                20,
+                20
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-detail.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-detail.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                },
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                }
+            ],
+            "filesize": 56552,
+            "dimensions": [
+                580,
+                434
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/startup-meeting-4JRX9G8"
+        },
+        {
+            "filename": "check-icon-dsable.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/check-icon-dsable.png",
+            "templates": [
+                {
+                    "source": "templates\/page-05-pricing.json",
+                    "name": "Page 05 - Pricing"
+                }
+            ],
+            "filesize": 329,
+            "dimensions": [
+                20,
+                20
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-uiux.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-uiux-600x217.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                }
+            ],
+            "filesize": 124008,
+            "dimensions": [
+                1440,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-ux-design-team-plans-to-develop-a-prototype-sm-GPVMGSD"
+        },
+        {
+            "filename": "aset09.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset09.png",
+            "templates": [
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                },
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 1083,
+            "dimensions": [
+                67,
+                92
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-detail01.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-detail01-600x283.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                }
+            ],
+            "filesize": 115112,
+            "dimensions": [
+                1334,
+                630
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ux-designer-team-working-on-smartphone-application-2DZT2W2"
+        },
+        {
+            "filename": "icon19.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon19.png",
+            "templates": [
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                }
+            ],
+            "filesize": 655,
+            "dimensions": [
+                45,
+                45
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon20.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon20.png",
+            "templates": [
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                }
+            ],
+            "filesize": 1244,
+            "dimensions": [
+                68,
+                45
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-detail03.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-detail03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                }
+            ],
+            "filesize": 59925,
+            "dimensions": [
+                580,
+                434
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/ui-designers-discussing-interface-BL3TC7Q"
+        },
+        {
+            "filename": "img-detail04.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-detail04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                }
+            ],
+            "filesize": 61260,
+            "dimensions": [
+                425,
+                504
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hipster-man-showing-new-mobile-app-2RB7Z9G"
+        },
+        {
+            "filename": "aset08.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset08.png",
+            "templates": [
+                {
+                    "source": "templates\/page-02-single-service.json",
+                    "name": "Page 02 - Single Service"
+                },
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 1110,
+            "dimensions": [
+                67,
+                92
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-service.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-service-600x217.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 124299,
+            "dimensions": [
+                1440,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/manager-talking-to-client-in-office-WTGEW5P"
+        },
+        {
+            "filename": "icon14.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon14.png",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 1869,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE"
+        },
+        {
+            "filename": "icon13.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon13.png",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 1212,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE"
+        },
+        {
+            "filename": "icon15.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon15.png",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 1166,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE"
+        },
+        {
+            "filename": "icon16.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon16.png",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 1820,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE"
+        },
+        {
+            "filename": "number01.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/number01.png",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 1891,
+            "dimensions": [
+                80,
+                89
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "aset-line01.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset-line01.png",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 154,
+            "dimensions": [
+                184,
+                4
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon17.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon17.png",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 1872,
+            "dimensions": [
+                100,
+                78
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE"
+        },
+        {
+            "filename": "number02.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/number02.png",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 2305,
+            "dimensions": [
+                86,
+                89
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon18.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon18.png",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 1433,
+            "dimensions": [
+                100,
+                97
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE"
+        },
+        {
+            "filename": "number03.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/number03.png",
+            "templates": [
+                {
+                    "source": "templates\/page-01-our-service.json",
+                    "name": "Page 01 - Our Service"
+                }
+            ],
+            "filesize": 2273,
+            "dimensions": [
+                86,
+                89
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-head02.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-head02-600x217.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                }
+            ],
+            "filesize": 130980,
+            "dimensions": [
+                1440,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-young-designers-team-in-a-meeting-PYTSE3F"
+        },
+        {
+            "filename": "img05.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img05.png",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 131658,
+            "dimensions": [
+                252,
+                307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/manager-in-office-FUMUHRV"
+        },
+        {
+            "filename": "img06.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img06.png",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 93429,
+            "dimensions": [
+                252,
+                307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/office-manager-8HT624H"
+        },
+        {
+            "filename": "img07.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img07.png",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 119570,
+            "dimensions": [
+                252,
+                307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-software-developer-X2BPNGR"
+        },
+        {
+            "filename": "img08.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img08.png",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 102708,
+            "dimensions": [
+                252,
+                307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-woman-portrait-HRVDRK4"
+        },
+        {
+            "filename": "img-team01.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-team01.png",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                }
+            ],
+            "filesize": 117878,
+            "dimensions": [
+                252,
+                307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/manager-with-notepad-73QA5X2"
+        },
+        {
+            "filename": "img-team02.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-team02.png",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                }
+            ],
+            "filesize": 127831,
+            "dimensions": [
+                252,
+                307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-manager-W52U9ZX"
+        },
+        {
+            "filename": "img-team03.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-team03.png",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                }
+            ],
+            "filesize": 108838,
+            "dimensions": [
+                252,
+                307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/contemporary-manager-PAZR7BM"
+        },
+        {
+            "filename": "img-team04.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-team04.png",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                }
+            ],
+            "filesize": 113901,
+            "dimensions": [
+                252,
+                307
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-manager-MFZSWQ6"
+        },
+        {
+            "filename": "creative-managers-crew-working-with-new-startup-pr-R7G4NRQ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/creative-managers-crew-working-with-new-startup-pr-R7G4NRQ.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 75548,
+            "dimensions": [
+                425,
+                636
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-managers-crew-working-with-new-startup-pr-R7G4NRQ"
+        },
+        {
+            "filename": "aset002.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset002.png",
+            "templates": [
+                {
+                    "source": "templates\/page-09-team.json",
+                    "name": "Page 09 - Team"
+                }
+            ],
+            "filesize": 2957,
+            "dimensions": [
+                240,
+                158
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-head.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-head-600x217.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 195446,
+            "dimensions": [
+                1440,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/agency-coworkers-discussing-new-project-on-laptop-CZXJNH4"
+        },
+        {
+            "filename": "img-001.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-001.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 92595,
+            "dimensions": [
+                580,
+                434
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/agency-workers-at-relax-zone-P5BJ6QP"
+        },
+        {
+            "filename": "icon07.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon07.png",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 1270,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/graphic-design-line-icons-9GKTJP"
+        },
+        {
+            "filename": "icon08.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon08.png",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 1446,
+            "dimensions": [
+                70,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/graphic-design-line-icons-9GKTJP"
+        },
+        {
+            "filename": "icon09.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon09.png",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 1425,
+            "dimensions": [
+                69,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/graphic-design-line-icons-9GKTJP"
+        },
+        {
+            "filename": "img-mission.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-mission.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 70870,
+            "dimensions": [
+                580,
+                426
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/they-are-team-on-a-mission-K587EXQ"
+        },
+        {
+            "filename": "icon10.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon10.png",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 1375,
+            "dimensions": [
+                76,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE"
+        },
+        {
+            "filename": "icon11.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon11.png",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 3176,
+            "dimensions": [
+                68,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE"
+        },
+        {
+            "filename": "icon12.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon12.png",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                }
+            ],
+            "filesize": 2419,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE"
+        },
+        {
+            "filename": "img-laptop.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/img-laptop-600x355.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 150472,
+            "dimensions": [
+                1334,
+                790
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/laptop-on-workplace-QE5WEEQ"
+        },
+        {
+            "filename": "play.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/play.png",
+            "templates": [
+                {
+                    "source": "templates\/page-06-about.json",
+                    "name": "Page 06 - About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1521,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "hero-img.jpg",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/hero-img-600x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 218109,
+            "dimensions": [
+                1441,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/when-you-enjoy-your-job-DRUGZXH"
+        },
+        {
+            "filename": "bg-overlay-hero.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/bg-overlay-hero-600x333.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5158,
+            "dimensions": [
+                1441,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "aset01.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3685,
+            "dimensions": [
+                296,
+                231
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "aset04.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 13823,
+            "dimensions": [
+                229,
+                238
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE\/preview\/4"
+        },
+        {
+            "filename": "aset03.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/aset03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2346,
+            "dimensions": [
+                283,
+                363
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon04.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2288,
+            "dimensions": [
+                81,
+                83
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE\/preview\/4"
+        },
+        {
+            "filename": "icon05.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon05.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2147,
+            "dimensions": [
+                81,
+                83
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE\/preview\/4"
+        },
+        {
+            "filename": "icon06.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/icon06.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2272,
+            "dimensions": [
+                86,
+                84
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/development-line-icons-H3AFXE\/preview\/4"
+        },
+        {
+            "filename": "logo-ipsum-white01.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum-white01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1567,
+            "dimensions": [
+                269,
+                99
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-ipsum-white02.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum-white02.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1119,
+            "dimensions": [
+                269,
+                99
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-ipsum-white03.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum-white03.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1124,
+            "dimensions": [
+                269,
+                99
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-ipsum-white04.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-ipsum-white04.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1353,
+            "dimensions": [
+                269,
+                99
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-merintis.png",
+            "thumbnail_url": "https:\/\/templatekit.pinisiart.com\/startupkit\/wp-content\/uploads\/sites\/10\/2021\/01\/logo-merintis.png",
+            "templates": [
+                {
+                    "source": "templates\/theme-builder-footer-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Footer (Elementor Pro)"
+                },
+                {
+                    "source": "templates\/theme-builder-header-elementor-pro-.json",
+                    "name": "Theme Builder \u2013 Header (Elementor Pro)"
+                }
+            ],
+            "filesize": 1773,
+            "dimensions": [
+                140,
+                35
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
